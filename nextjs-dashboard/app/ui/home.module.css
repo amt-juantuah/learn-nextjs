@@ -1,0 +1,30 @@
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid black;    
+    border-left: 20px solid #ffffff00;
+    border-right: 20px solid transparent;
+  }
+
+  .sip {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+  }
+
+  .arro {
+    position: relative;
+    width: 150px;
+  }
+
+  .rrr {
+    transition: right 350ms;    
+    position: absolute;
+    right: 10px;
+
+  }
+
+  .arro:hover .rrr{
+    right: 3px;
+    /* color: rgb(4, 7, 7); */
+  }
