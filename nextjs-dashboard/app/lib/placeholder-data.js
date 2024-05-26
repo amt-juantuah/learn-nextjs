@@ -7,6 +7,24 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '410544b2-4001-4271-9856-fec4b6a6442a',
+    name: 'User',
+    email: 'user@example.com',
+    password: '123456',
+  },
+  {
+    id: '410544b2-4001-4271-9857-fec4b6a6442a',
+    name: 'User',
+    email: 'user@user.com',
+    password: '123456',
+  },
+  {
+    id: '410544b2-4001-4271-9858-fec4b6a6442a',
+    name: 'User',
+    email: 'user@mailer.com',
+    password: '123456',
+  },
 ];
 
 const customers = [
